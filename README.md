@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-- 👋 Hi, I’m @Vanam Shiva Kumar a aspiring Data Scientist.
+- 👋 Hi, I’m @Vanam Shiva Kumar a aspiring Software Engineer.
 - 🌱 I’m currently pursuing Computer Science Engineering , where I am continuously enhancing my skills and knowledge.
 - 👀 I'm actively seeking opportunities to collaborate on challenging projects and internships that allow me to apply my expertise and contribute to meaningful solutions.
 - 💞️ I’m looking to collaborate on projects and internships.
