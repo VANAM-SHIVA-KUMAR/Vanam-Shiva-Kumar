@@ -1,87 +1,136 @@
-<a href="https://github.com/VANAM-SHIVA-KUMAR">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Open+Source+Contributor;AI+Trainer;Prompt+Engineer;Data+Structures+and+Algorithm;Tech+Geek" />
-    </a>
-    <div align=center>
-    <a href="https://VANAM-SHIVA-KUMAR">
-    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-    </a>
-    <h1 align="center">Hi 👋, I'm Vanam Shiva Kumar</h1>
-    
-<b>Glad to see you here!</b>
+<h1 align="center">Hello 👋, I'm Vanam Shiva kumar</h1>
+<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | Microsoft & CodeClause Intern | Binance Hackathon Winner</h3>
 
-<h3 align="left">Connect with me:
-	<p align="left">
-<a href="https://twitter.com/ShivaVanam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vanam-shiva-kumar-0445281b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivavanam27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shivakumarvanam27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/shivakumarvanam27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-<a href="https://leetcode.com/shivavanam27/" target="blank"><img align="center" src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" height="30" width="40"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VANAM-SHIVA-KUMAR&label=Profile%20views&color=0e75b6&style=flat" alt="VANAM-SHIVA-KUMAR" width="200" height="60"/>
 </p>
-	</h3>
 
-<hr>   
-A web developer and programming enthusiast, I always enjoy discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and problem solving.
- 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
-	
-<div align="left">
-	
-<h4>🗣 Talking about Personal Stuffs:</h4>
-    
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and doing Competitive Programming.
-- 🏗 &nbsp; Building Websites.
-- 🚀 &nbsp; I’m currently learning React.js and Node.js.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/VANAM-SHIVA-KUMAR).
-- ✍🏻 &nbsp; I like writing tech blogs and you can read them on my medium blog - https://medium.com/@shivakumarvanam27
-- 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge myself and develop my skills.
-- 📫 &nbsp; How to reach me: shivakumarvanam27@gmail.com 
-
-    
-    
-<hr>
-    
-<h4>My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h4>
-
-- 💻 &nbsp; I love coding in Python and exploring AI & Web enthusiastic.
-- 📰 &nbsp; Reading and writing tech blogs whenever possible
-- 🍕 &nbsp; Hackathons & coding competitions
- 
-<br>   
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VANAM-SHIVA-KUMAR&column=7&margin-w=15&margin-h=15" alt="VANAM-SHIVA-KUMAR" />
+  </a>
+</p>
 
 
-<!-- Commented - add when all done
-Languages and Tools:
+- 🌱 I’m currently learning **Node Js, Web API in .NET**
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
-</code> -->
-    
- 
-<hr>  
-<!-- <h4> Projects and Dev Stuffs: </h4> -->
+- 👨‍💻 All of my projects are available at [https://vanam-shiva-kumar.github.io/Portfolio](https://vanam-shiva-kumar.github.io/Portfolio/)
 
-  <b>⚡ Github Stats</b>
-	
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VANAM-SHIVA-KUMAR)](https://github.com/VANAM-SHIVA-KUMAR/github-readme-stats)
-	
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VANAM-SHIVA-KUMAR&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
+- 💬 Ask me about **Data Science, Machine Learning**
 
-   
-</div>   
- 
-<br>
-    
-<div align="center">
-<h3>
-Thank you for reading, Share your ❤️ by starring my useful repositories! And follow me for update on some of my more amazing projects🌟
-</h3>
-</div>
+- 📫 How to reach me **shivakrishnabeeraboina@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X07MFOuXEIoZwahtlw90a2ftkWRRhwg7/view](https://drive.google.com/file/d/1X07MFOuXEIoZwahtlw90a2ftkWRRhwg7/view)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://linkedin.com/in/https://www.linkedin.com/in/vanam-shiva-kumar-0445281b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanam-shiva-kumar-0445281b7/" height="60" width="60" /></a></td>
+      <td><a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shivakumarvanam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shivakumarvanam1" height="60" width="60" /></a></td>
+      <td><a href="https://www.leetcode.com/https://leetcode.com/shivavanam27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivavanam27/" height="60" width="60" /></a></td>
+      <td><a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shivakumarvanam27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shivakumarvanam27/" height="60" width="60" /></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a></td>
+      <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a></td>
+      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a></td>
+      <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Front-End Development:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a></td>
+      <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a></td>
+      <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a></td>
+      <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a></td>
+      <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Back-End Development:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/></a></td>
+      <td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/></a></td>
+      <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/></a></td>
+      <td><a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a></td>
+      <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a></td>
+      <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/></a></td>
+      <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a></td>
+      <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a></td>
+      <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">DevOps:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a></td>
+      <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a></td>
+      <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/></a></td>
+      <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Frameworks:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e960e4d48052658d860630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a></td>
+      <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/></a></td>
+      <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a></td>
+      <td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a></td>
+      <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Other Tools:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a></td>
+      <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a></td>
+      <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/></a></td>
+      <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VANAM-SHIVA-KUMAR&show_icons=true&locale=en&layout=compact" alt="VANAM-SHIVA-KUMAR" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VANAM-SHIVA-KUMAR&show_icons=true&locale=en" alt="VANAM-SHIVA-KUMAR" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANAM-SHIVA-KUMAR&" alt="VANAM-SHIVA-KUMAR" width="600" />
+</p>
