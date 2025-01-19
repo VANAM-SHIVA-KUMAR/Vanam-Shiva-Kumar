@@ -69,7 +69,7 @@
     <tr>
       <td>
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="60" height="60"/>
         </a>
       </td>
       <td>
@@ -95,6 +95,7 @@
     </tr>
   </table>
 </p>
+
 
 
 <h3 align="center">Databases:</h3>
