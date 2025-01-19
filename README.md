@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vanam Shiva kumar</h1>
-<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | Microsoft & CodeClause Intern | Binance Hackathon Winner</h3>
+<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | CodeClause Intern | Hackathon Winner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VANAM-SHIVA-KUMAR&label=Profile%20views&color=0e75b6&style=flat" alt="VANAM-SHIVA-KUMAR" width="200" height="60"/>
@@ -12,13 +12,13 @@
 </p>
 
 
-- 🌱 I’m currently learning **Node Js, Web API in .NET**
+- 🌱 I’m currently learning **Low Latency, Web3, Block Chain**
 
 - 👨‍💻 All of my projects are available at [https://vanam-shiva-kumar.github.io/Portfolio](https://vanam-shiva-kumar.github.io/Portfolio/)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
-- 📫 How to reach me **shivakrishnabeeraboina@gmail.com**
+- 📫 How to reach me **shivakumarvanam27@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X07MFOuXEIoZwahtlw90a2ftkWRRhwg7/view](https://drive.google.com/file/d/1X07MFOuXEIoZwahtlw90a2ftkWRRhwg7/view)
 
